@@ -1,0 +1,7 @@
+[package]
+name = "hload"
+version = "0.1.0"
+authors = ["Andrey Morozov <morozov.andrey.vmk@gmail.com>"]
+
+[dependencies]
+clap = "*"
